@@ -1,0 +1,24 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    color: brown;
+}
+
+.main-list {
+    text-align: center;
+    list-style-type: none;
+    font-size: larger;
+}
+
+.recipe-h1 {
+    color: blue;
+}
+
+.recipe-h2 {
+    color: brown;
+}
