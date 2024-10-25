@@ -2,7 +2,14 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.menu {
+    background-color: beige;
+    margin: 0 100px;
+    padding: 10px;
+}
+
 .main-header {
+    margin: 10px auto;
     text-align: center;
     font-size: 40px;
     font-weight: 900;
@@ -10,8 +17,16 @@
 }
 
 .main-list {
-    text-align: center;
-    list-style-type: none;
+    margin: 10px;
+}
+
+.menu-list {
+    display: block;
+    width: 50%;
+    margin: 3px auto;
+    padding: 5px;
+    border: 2px solid #800020;
+    background-color: #FFFDD0;
     font-size: larger;
 }
 
