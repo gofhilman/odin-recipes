@@ -6,6 +6,7 @@
     background-color: beige;
     margin: 0 100px;
     padding: 10px;
+    border: 10px outset lightgray;
 }
 
 .main-header {
