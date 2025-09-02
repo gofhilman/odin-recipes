@@ -1,5 +1,10 @@
-# odin-recipes
+# Odin Recipes
 
-This is my first project from The Odin Project.
+A simple food recipe website using HTML and CSS only. This is my first web development project/
 
-So, basically the project maybe is about creating a menu only based on HTML and CSS. Therefore, the result might be very simple.
+Live: <https://gofhilman.github.io/odin-recipes/>
+
+## Features
+
+- Index page containing food recipe list
+- Recipe pages in separated HTML
